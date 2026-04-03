@@ -18,16 +18,13 @@ url                      : https://joyceytang.github.io # The base hostname & pr
 baseurl                  : "/joyceytang" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Joyce Yaqing Tang"
+  avatar           : "profile.jpg"
+  name             : "Joyce Yaqing Tang 汤雅晴"
   pronouns         : "she/they"  
-  bio              : "Hello, I am a senior year cognitive science undergraduate student at UCSD"
-  location         : "La Jolla, CA, USA"
+  bio              : "Hello, I am a lab manager @GLySN Lab"
+  location         : "Palo Alto, CA, USA"
   email            : "jot027@ucsd.edu" 
 
   # Academic websites
