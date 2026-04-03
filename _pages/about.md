@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: archive 
+permalink: /about/
 title: "Joyce Yaqing Tang | About Me"
 author_profile: true
 redirect_from: 
