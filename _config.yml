@@ -23,9 +23,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Joyce Yaqing Tang 汤雅晴"
   pronouns         : "she/they"  
-  bio              : "Hello, I am a lab manager @GLySN Lab"
+  bio              : "Lab Manager @GLySN Lab | jot027-at-stanford-dot-edu"
   location         : "Palo Alto, CA, USA"
-  email            : "jot027@ucsd.edu" 
 
   # Academic websites
   academia         : # URL
@@ -135,7 +134,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
