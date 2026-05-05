@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Joyce Yaqing Tang (汤雅晴). I currently serve as a Lab Manager in the [Gwilliams Laboratory of Speech Neuroscience](https://gwilliamslab.stanford.edu "GLySN Lab") at Stanford University. My research centers on the cognitive mechanisms underlying sentence-level language processing in bilingual speakers, and how computational modeling can deepen our understanding of this process.
+Hi, I'm Joyce Yaqing Tang (汤雅晴). I currently serve as a Lab Manager in the [Gwilliams Laboratory of Speech Neuroscience](https://gwilliamslab.stanford.edu "GLySN Lab") at Stanford University. My main research interest centers on understanding the cognitive mechanisms underlying continuous language processing in bilingual speakers, and how computational modeling can deepen our understanding of this process.
 
 I received my B.S. in Cognitive Science from the University of California, San Diego, where I had the opportunity to work with Dr. Seana Coulson and Dr. Anne Beatty-Martínez. Prior to my transition to UCSD, I studied at the University of California, Davis, where I was advised by Dr. Tamara Swaab.
 
