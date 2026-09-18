@@ -18,4 +18,4 @@ Education
 * B.S. in Cognitive Science (Cum Laude), UC San Diego, 2024-2025
 * B.S. in Cognitive Science (Withdrawn), UC Davis, 2022-2024
 
-Please click for the latest version of my CV. 
+Please click [here](https://drive.google.com/file/d/1UowxVjdwim36A50y3YQyYXZK2SwfZTH3/view?usp=sharing) for the latest version of my CV. 
