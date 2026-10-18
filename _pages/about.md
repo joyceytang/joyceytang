@@ -9,9 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Joyce Yaqing Tang (汤雅晴). I currently serve as a Lab Manager in the [Gwilliams Laboratory of Speech Neuroscience](https://gwilliamslab.stanford.edu "GLySN Lab") at Stanford University. My main research interest centers on understanding the cognitive mechanisms underlying continuous language processing in bilingual speakers, and how computational modeling can deepen our understanding of this process.
+Hi, I'm Joyce Yaqing Tang (汤雅晴). I currently serve as a Lab Manager in the [Gwilliams Laboratory of Speech Neuroscience](https://gwilliamslab.stanford.edu "GLySN Lab") at Stanford University. My main research interest centers on understanding the neural basis of naturalistic speech processing in human brain. 
 
-I received my B.S. in Cognitive Science from the University of California, San Diego, where I had the opportunity to work with Dr. Seana Coulson and Dr. Anne Beatty-Martínez. Prior to my transition to UCSD, I studied at the University of California, Davis, where I was advised by Dr. Tamara Swaab.
+I received my B.S. degree in Cognitive Science from the University of California, San Diego, where I had the opportunity to work with Dr. Seana Coulson and Dr. Anne Beatty-Martínez. Prior to my transition to UCSD, I studied at the University of California, Davis, where I was advised by Dr. Tamara Swaab.
 
-Beyond research, I'm passionate about making science accessible to broader audiences. I write articles about brain, mind, and language in Chinese under the pen name 汤 for [神经现实 (Neu-reality)](https://neu-reality.com/ 'Neu-reality') and [NextQuestion](https://www.next-question.com/zh 'NextQuestion') affiliated with the Tianqiao and Chrissy Chen Institute (TCCI), Caltech.
+Beyond research, I'm passionate about making science more accessible to broader audiences. I write articles about brain, mind, and language in Chinese under the pen name 汤 for [神经现实 (Neu-reality)](https://neu-reality.com/ 'Neu-reality') and [NextQuestion](https://www.next-question.com/zh 'NextQuestion') affiliated with the Tianqiao and Chrissy Chen Institute (TCCI), Caltech.
 
+(last update time: 10/18/2026)
